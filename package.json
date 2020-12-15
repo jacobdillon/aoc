@@ -1,0 +1,12 @@
+{
+  "name": "aoc-2020",
+  "license": "WTFPL",
+  "adventConfig": {
+    "year": "2020"
+  },
+  "devDependencies": {
+    "advent-of-code": "^5.0.0",
+    "eslint": "^7.15.0",
+    "prettier": "2.2.1"
+  }
+}
